@@ -1,0 +1,12 @@
+mjkey.txt
+**/.DS_STORE
+**/*.pyc
+**/*.swp
+**/*.pdf
+maple/launchers/conf_private.py
+MANIFEST
+*.egg-info
+\.idea/
+data
+MUJOCO_LOG.TXT
+**/sbatch/*
