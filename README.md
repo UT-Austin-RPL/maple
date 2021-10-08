@@ -73,12 +73,10 @@ In addition, the environments were developed as a forked branch of [robosuite](h
 
 ## Citation
 ```
-@misc{nasiriany2021maple,
+@inproceedings{nasiriany2021maple,
    title={Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks},
    author={Soroush Nasiriany and Huihan Liu and Yuke Zhu},
-   year={2021},
-   eprint={2110.03655},
-   archivePrefix={arXiv},
-   primaryClass={cs.LG}
+   booktitle={arXiv preprint arXiv:2110.03655},
+   year={2021}
 }
 ```
