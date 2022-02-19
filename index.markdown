@@ -100,16 +100,23 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
 <div id="primarycontent">
 <center><h1><strong>Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks</strong></h1></center>
 <center><h2>
+<span style="font-size:25px;">
     <a href="http://snasiriany.me/" target="_blank">Soroush Nasiriany</a>&nbsp;&nbsp;&nbsp;
     <a href="https://huihanl.github.io/" target="_blank">Huihan Liu</a>&nbsp;&nbsp;&nbsp;
     <a href="https://cs.utexas.edu/~yukez" target="_blank">Yuke Zhu</a>&nbsp;&nbsp;&nbsp;
+    </span>
    </h2>
-    <center><h2>
+    <h2>
+    <span style="font-size:25px;">
         <a href="https://www.cs.utexas.edu/" target="_blank">The University of Texas at Austin</a>&nbsp;&nbsp;&nbsp;   
-    </h2></center>
-      <!-- <center><span style="font-size:20px;">Under review, 2021</span></center> -->
+        </span>
+    </h2>
+    <h2>
+    <span style="font-size:20px;">IEEE International Conference on Robotics and Automation (ICRA), 2022</span>
+    </h2>
+</center>
 
-<center><h2><a href="https://arxiv.org/abs/2110.03655" target="_blank"><b>Paper</b></a> &emsp; <a href="https://github.com/UT-Austin-RPL/maple" target="_blank"><b>Code</b></a></h2></center>
+<center><h2><span style="font-size:25px;"><a href="https://arxiv.org/abs/2110.03655" target="_blank"><b>Paper</b></a> &emsp; <a href="https://github.com/UT-Austin-RPL/maple" target="_blank"><b>Code</b></a></span></h2></center>
 <!-- <center><h2><a href="https://github.com/UT-Austin-RPL/maple" target="_blank">Code</a></h2></center> -->
 <!-- <center><h2><a href="">Paper</a> | <a href="">Poster</a> | <a href="./src/bib.txt">Bibtex</a> </h2></center>  -->
 
@@ -256,11 +263,11 @@ As our behavior primitives offer high-level action abstractions and encapsulate 
                   <td>
                   <left>
 <pre><code style="display:block; overflow-x: auto">
-    @inproceedings{nasiriany2021maple,
+    @inproceedings{nasiriany2022maple,
       title={Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks},
       author={Soroush Nasiriany and Huihan Liu and Yuke Zhu},
-      booktitle={arXiv preprint arXiv:2110.03655},
-      year={2021}
+      booktitle={2022 IEEE International Conference on Robotics and Automation (ICRA)},
+      year={2022}
     }
 </code></pre>
 </left></td></tr></table>
