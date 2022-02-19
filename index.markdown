@@ -114,7 +114,6 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
     <h2>
     <span style="font-size:20px;">IEEE International Conference on Robotics and Automation (ICRA), 2022</span>
     </h2>
-</center>
 
 <center><h2><span style="font-size:25px;"><a href="https://arxiv.org/abs/2110.03655" target="_blank"><b>Paper</b></a> &emsp; <a href="https://github.com/UT-Austin-RPL/maple" target="_blank"><b>Code</b></a></span></h2></center>
 <!-- <center><h2><a href="https://github.com/UT-Austin-RPL/maple" target="_blank">Code</a></h2></center> -->
@@ -266,7 +265,7 @@ As our behavior primitives offer high-level action abstractions and encapsulate 
     @inproceedings{nasiriany2022maple,
       title={Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks},
       author={Soroush Nasiriany and Huihan Liu and Yuke Zhu},
-      booktitle={2022 IEEE International Conference on Robotics and Automation (ICRA)},
+      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
       year={2022}
     }
 </code></pre>
