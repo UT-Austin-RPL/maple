@@ -5,6 +5,7 @@ This is the official codebase for **Ma**nipulation **P**rimitive-augmented reinf
 **Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks**
 <br> [Soroush Nasiriany](http://snasiriany.me/), [Huihan Liu](https://huihanl.github.io/), [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) 
 <br> [UT Austin Robot Perception and Learning Lab](https://rpl.cs.utexas.edu/)
+<br> IEEE International Conference on Robotics and Automation (ICRA), 2022
 <br> **[[Paper]](https://arxiv.org/abs/2110.03655)**&nbsp;**[[Project Website]](https://ut-austin-rpl.github.io/maple/)**
 
 <!-- ![alt text](https://github.com/UT-Austin-RPL/maple/blob/web/src/overview.png) -->
@@ -72,11 +73,11 @@ Much of this codebase is directly based on [RLkit](https://github.com/vitchyr/rl
 In addition, the environments were developed as a forked branch of [robosuite](https://github.com/ARISE-Initiative/robosuite) `v1.1.0`.
 
 ## Citation
-```
-@inproceedings{nasiriany2021maple,
+```bibtex
+@inproceedings{nasiriany2022maple,
    title={Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks},
    author={Soroush Nasiriany and Huihan Liu and Yuke Zhu},
-   booktitle={arXiv preprint arXiv:2110.03655},
-   year={2021}
+   booktitle={2022 IEEE International Conference on Robotics and Automation (ICRA)},
+   year={2022}
 }
 ```
