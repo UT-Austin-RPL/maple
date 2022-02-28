@@ -75,7 +75,7 @@ In addition, the environments were developed as a forked branch of [robosuite](h
 ## Citation
 ```bibtex
 @inproceedings{nasiriany2022maple,
-   title={Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks},
+   title={MAPLE: Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks},
    author={Soroush Nasiriany and Huihan Liu and Yuke Zhu},
    booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
    year={2022}
