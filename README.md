@@ -1,8 +1,8 @@
-# Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks
+# MAPLE: Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks
 
 This is the official codebase for **Ma**nipulation **P**rimitive-augmented reinforcement **Le**arning (MAPLE), from the following paper:
 
-**Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks**
+**MAPLE: Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks**
 <br> [Soroush Nasiriany](http://snasiriany.me/), [Huihan Liu](https://huihanl.github.io/), [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) 
 <br> [UT Austin Robot Perception and Learning Lab](https://rpl.cs.utexas.edu/)
 <br> IEEE International Conference on Robotics and Automation (ICRA), 2022
