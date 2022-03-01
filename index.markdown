@@ -98,7 +98,7 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
 
 
 <div id="primarycontent">
-<center><h1><strong>MAPLE: Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks</strong></h1></center>
+<center><h1><strong>Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks</strong></h1></center>
 <center><h2>
 <span style="font-size:25px;">
     <a href="http://snasiriany.me/" target="_blank">Soroush Nasiriany</a>&nbsp;&nbsp;&nbsp;
@@ -263,7 +263,7 @@ As our behavior primitives offer high-level action abstractions and encapsulate 
                   <left>
 <pre><code style="display:block; overflow-x: auto">
     @inproceedings{nasiriany2022maple,
-      title={MAPLE: Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks},
+      title={Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks},
       author={Soroush Nasiriany and Huihan Liu and Yuke Zhu},
       booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
       year={2022}
