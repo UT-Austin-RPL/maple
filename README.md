@@ -2,7 +2,7 @@
 
 This is the official codebase for **Ma**nipulation **P**rimitive-augmented reinforcement **Le**arning (MAPLE), from the following paper:
 
-**MAPLE: Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks**
+**Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks**
 <br> [Soroush Nasiriany](http://snasiriany.me/), [Huihan Liu](https://huihanl.github.io/), [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) 
 <br> [UT Austin Robot Perception and Learning Lab](https://rpl.cs.utexas.edu/)
 <br> IEEE International Conference on Robotics and Automation (ICRA), 2022
@@ -75,7 +75,7 @@ In addition, the environments were developed as a forked branch of [robosuite](h
 ## Citation
 ```bibtex
 @inproceedings{nasiriany2022maple,
-   title={MAPLE: Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks},
+   title={Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks},
    author={Soroush Nasiriany and Huihan Liu and Yuke Zhu},
    booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
    year={2022}
