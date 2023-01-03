@@ -159,6 +159,7 @@ env_params = dict(
         'algorithm_kwargs.max_path_length': [300],
         'env_variant.controller_type': ['OSC_POSITION'],
         'env_variant.controller_config_update.position_limits': [[[-0.10, -0.30, 0.75], [0.20, 0.30, 1.00]]],
+        'env_variant.env_kwargs.table_offset':[[0.05, 0, 0.8]],
         'env_variant.env_kwargs.skill_config.base_config.global_xyz_bounds': [
             [[-0.10, -0.30, 0.75], [0.20, 0.30, 1.00]]],
         'env_variant.env_kwargs.skill_config.grasp_config.global_xyz_bounds': [
